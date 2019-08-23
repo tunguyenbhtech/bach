@@ -24,7 +24,7 @@
     "defaults"
   ],
   "homepage": "https://github.com/TrueFit/bach#readme",
-  "dependencies": {
+  "peerDependencies": {
     "react": "^16.8.6"
   },
   "devDependencies": {
